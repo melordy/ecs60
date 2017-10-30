@@ -221,6 +221,7 @@ int main()
         } //switch based on user choice
         cout << "CPU time: " << ct.cur_CPUTime() << endl;
     } while(choice > 0);
+     cout << "hello" << endl;
     
     return 0;
 }//main()
