@@ -1,0 +1,5 @@
+Found #include of standard library other than iostream, stdlib, time, and cstddef,
+so zero for the assignment.
+No Makefile found so using default, -1 from total.
+If your code doesn't work with that Makefile, then handin only a Makefile, and e-mail Sean.
+defrag.out was not created by make, so zero for assignment.
